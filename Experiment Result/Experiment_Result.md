@@ -17,7 +17,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr><td>1.1</td><td>killed</td><td>4</td><td>3.139521</td><td>305</td><td>not found</td><td>50</td><td>101.537821</td><td>-</td></tr>
+    <tr><td>1.1</td><td>killed</td><td>4</td><td>3.139521</td><td>105</td><td>not found</td><td>50</td><td>101.537821</td><td>-</td></tr>
     <tr><td>1.2</td><td>2</td><td>9</td><td>0.729479</td><td>-</td><td>0</td><td>50</td><td>1.576137</td><td>Not Found</td></tr>
     <tr><td>1.3</td><td>3</td><td>2.33</td><td>0.918077</td><td>-</td><td>1</td><td>31</td><td>1.685798</td><td>-</td></tr>
     <tr><td>1.4</td><td>4</td><td>7.5</td><td>0.694213</td><td>-</td><td>0</td><td>50</td><td>1.187301</td><td>Not Found</td></tr>
