@@ -1,60 +1,35 @@
-
-| No.   | Number of test cases | Time(s)   | Result            |
-|-------|----------------------|-----------|-------------------|
-| 1.0   | 11                   | 8.041594  | Totally verified  |
-| 1.1   | 4                    | 1.258768  | Counterexample: -1    |
-| 1.2   | 6                    | 2.832229  | Counterexample: -1    |
-| 1.3   | 5                    | 1.966825  | Counterexample:  6    |
-| 1.4   | 7                    | 3.854978  | Counterexample:  19    |
-| 1.5   | 6                    | 2.423132  | Counterexample:  5    |
-| 2.0   | 5                    | 12.683130 | Totally verified  |
-| 2.1   | 4                    | 8.116110  | Counterexample:  -3    |
-| 2.2   | 5                    | 12.427794 | Counterexample:  9    |
-| 3.0   | 26                   | 20.805720 | Totally verified  |
-| 3.1   | 12                   | 7.308792  | Counterexample:  6  |
-| 3.2   | 15                   | 9.401510  | Counterexample:  13    |
-| 3.3   | 7                    | 4.725882  | Counterexample:  -5/2   |
-| 4.0   | 14                   | 9.111284  | Totally verified  |
-| 4.1   | 4                    | 1.172165  | Counterexample:  7/2    |
-| 4.2   | 8                    | 2.375108  | Counterexample:  10  |
-| 4.3   | 7                    | 2.077817  | Counterexample:   6 |
-| 4.4   | 10                   | 4.148606  | Counterexample:   34 |
-| 5.0   | 10                   | 5.270240  | Totally verified  |
-| 5.1   | 7                    | 3.359520  | Counterexample:  28  |
-| 5.2   | 13                   | 7.216367  | Counterexample:   87 |
-| 5.3   | 6                    | 2.578605  | Counterexample:   21 |
-| 6.0   | 18                   | 15.590197 | Totally verified  |
-| 6.1   | 18                   | 16.001919 | Totally verified  |
-| 6.2   | 13                   | 7.809769  | Counterexample:  91    |
-| 6.3   | 16                   | 11.622232 | Counterexample:  122  |
-| 7.0   | 26                   | 18.494554 | Totally verified  |
-| 7.1   | 7                    | 2.714171  | Counterexample:  48  |
-| 7.2   | 4                    | 0.620281  | Counterexample:  6  |
-| 7.3   | 2                    | 0.221565  | Counterexample:  0    |
-| 7.4   | 18                   | 9.717270  | Counterexample:  125  |
-| 7.5   | 5                    | 1.084125  | Counterexample:  34  |
-| 8.0   | 15                   | 11.228595 | Totally verified  |
-| 8.1   | 7                    | 3.376820  | Counterexample:   42 |
-| 8.2   | 5                    | 2.480929  | Counterexample:  -7  |
-| 8.3   | 16                   | 12.146209 | Counterexample:  96  |
-| 8.4   | 9                    | 5.582099  | Counterexample:   54 |
-| 9.0   | 17                   | 21.728025 | Totally verified  |
-| 9.1   | 17                   | 23.446415 | Totally verified  |
-| 9.2   | 5                    | 4.902448  | Counterexample:  -1  |
-| 9.3   | 3                    | 2.764928  | Counterexample:   -3 |
-| 9.4   | 10                   | 11.911745 | Counterexample:  123/2  |
-| 9.5   | 5                    | 4.886071  | Counterexample:   23 |
-| 10.0  | 6                    | 2.952516  | Totally verified  |
-| 10.1  | 4                    | 0.963104  | Counterexample: 3   |
-| 10.2  | 2                    | 0.457889  | Counterexample:  1  |
-| 11.0  | 19                   | 16.290529 | Totally verified  |
-| 11.1  | 19                   | 16.893655 | Totally verified  |
-| 11.2  | 13                   | 10.487529 | Counterexample:  79    |
-| 12.0  | 9                    | 6.004809  | Totally verified  |
-| 12.1  | 2                    | 0.569503  | Counterexample:  4 |
-| 12.2  | 6                    | 2.525527  | Counterexample:  55    |
-| 12.3  | 5                    | 2.108805  | Counterexample:  90    |
-| 13.0  | 6                    | 3.598183  | Totally verified  |
-| 13.1  | 6                    | 3.778133  | Totally verified  |
-| 13.2  | 2                    | 0.769957  | Counterexample:  9    |
-| 13.3  | 4                    | 1.794851  | Counterexample:  73  |
+<table border="1" cellspacing="0" cellpadding="4">
+  <thead>
+    <tr>
+      <th rowspan="2">No.</th>
+      <th colspan="4" style="text-align: center;">TBFV4J_CSC</th>
+      <th colspan="4" style="text-align: center;">TBFV4J_Ran</th>
+    </tr>
+    <tr>
+      <th>Killed Mutants</th>
+      <th>Num of test cases</th>
+      <th>Time(s)</th>
+      <th>Counterexample</th>
+      <th>Killed Mutants</th>
+      <th>Num of test cases</th>
+      <th>Time(s)</th>
+      <th>Counterexample</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>5</td><td>4.2</td><td>0.788805</td><td>-</td><td>1</td><td>26</td><td>1.673449</td><td>-</td></tr>
+    <tr><td>2</td><td>2</td><td>9</td><td>0.729479</td><td>-</td><td>0</td><td>50</td><td>1.576137</td><td>Not Found</td></tr>
+    <tr><td>3</td><td>3</td><td>2.33</td><td>0.918077</td><td>-</td><td>1</td><td>31</td><td>1.685798</td><td>-</td></tr>
+    <tr><td>4</td><td>4</td><td>7.5</td><td>0.694213</td><td>-</td><td>0</td><td>50</td><td>1.187301</td><td>Not Found</td></tr>
+    <tr><td>5</td><td>3</td><td>4</td><td>0.533746</td><td>-</td><td>1</td><td>27</td><td>1.211330</td><td>-</td></tr>
+    <tr><td>6</td><td>3</td><td>3.66</td><td>1.070282</td><td>-</td><td>0</td><td>50</td><td>1.830166</td><td>Not Found</td></tr>
+    <tr><td>7</td><td>5</td><td>5.4</td><td>0.779804</td><td>-</td><td>1</td><td>34</td><td>1.472767</td><td>-</td></tr>
+    <tr><td>8</td><td>4</td><td>2</td><td>0.849383</td><td>-</td><td>1</td><td>39</td><td>1.505359</td><td>-</td></tr>
+    <tr><td>9</td><td>5</td><td>4.6</td><td>1.514405</td><td>-</td><td>2</td><td>23.5</td><td>2.264541</td><td>-</td></tr>
+    <tr><td>10</td><td>2</td><td>5.5</td><td>0.452495</td><td>-</td><td>0</td><td>50</td><td>1.096254</td><td>Not Found</td></tr>
+    <tr><td>11</td><td>2</td><td>2</td><td>0.876382</td><td>-</td><td>0</td><td>50</td><td>1.718047</td><td>Not Found</td></tr>
+    <tr><td>12</td><td>3</td><td>4.33</td><td>0.722805</td><td>-</td><td>1</td><td>15</td><td>1.378791</td><td>-</td></tr>
+    <tr><td>13</td><td>3</td><td>4.66</td><td>0.955115</td><td>-</td><td>1</td><td>11</td><td>1.636031</td><td>-</td></tr>
+    <tr><td>14</td><td>2</td><td>3</td><td>0.583021</td><td>-</td><td>0</td><td>50</td><td>1.356792</td><td>Not Found</td></tr>
+  </tbody>
+</table>
