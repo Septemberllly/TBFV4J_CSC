@@ -31,7 +31,7 @@ Each folder includes its own `README.md` with more detailed explanations. We rec
 
 ------
 
-### 🔧 About TBFV4J-Ran
+###  About TBFV4J-Ran
 
 **TBFV4J-Ran** is an automated tool that integrates **specification-based testing** with **formal verification** for validating Java programs. It adopts a grey-box testing approach, combining path exploration and constraint solving, which avoids the need for manually deriving loop invariants.
 
