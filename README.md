@@ -1,14 +1,12 @@
 # Condition Sequence Coverage Criterion and Automatic Test Case Generation for Testing-Based Formal Verification
 
-# Condition Sequence Coverage Criterion and Automatic Test Case Generation for Testing-Based Formal Verification
-
-### 📖 Project Overview
+###  Project Overview
 
 The tool **TBFV4J-CSC** presented in this repository is based on the methodology proposed in the paper *"Condition Sequence Coverage Criterion and Automatic Test Case Generation for Testing-Based Formal Verification"*. As an enhancement of the original TBFV4J framework, TBFV4J-CSC introduces a new test coverage criterion — **Condition Sequence Coverage (CSC)** — which replaces the orig↳
 
 ------
 
-### 📂 Project Directory Structure
+###  Project Directory Structure
 
 This project consists of the following three main folders:
 
@@ -38,14 +36,14 @@ Each folder includes its own `README.md` with more detailed explanations. We rec
 **TBFV4J-Ran** is an automated tool that integrates **specification-based testing** with **formal verification** for validating Java programs. It adopts a grey-box testing approach, combining path exploration and constraint solving, which avoids the need for manually deriving loop invariants.
 
 GitHub repository:
- 👉 https://github.com/aabcliu/TBFV4J
+🔗  https://github.com/aabcliu/TBFV4J
 
 The tool has been officially accepted for demonstration at **ISSTA 2025**:
  🔗 https://dl.acm.org/doi/10.1145/3713081.3731740
 
 ------
 
-### 🔍 Differences Between TBFV4J-CSC and TBFV4J-Ran
+###  Differences Between TBFV4J-CSC and TBFV4J-Ran
 
 Although **TBFV4J-CSC** is built upon the**TBFV4J-Ran**, it features extensive enhancements and architectural redesigns, particularly in the following two core modules:
 
@@ -67,3 +65,4 @@ For detailed installation and usage instructions, please refer to the `README.md
 
 We welcome you to use, contribute to, or provide feedback on this project to advance the development of practical and intelligent formal verification tools.
  For questions or bug reports, please open an [Issue](https://github.com/your-project/issues).
+
