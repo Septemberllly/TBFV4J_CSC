@@ -8,7 +8,7 @@ The tool **TBFV4J-CSC** presented in this project is implemented based on the me
 
 ###  Project Directory Structure
 
-This project consists of the following three main folders:
+This project consists of the following three main folders: 
 
 #### 1. `Experiment Result`
 
