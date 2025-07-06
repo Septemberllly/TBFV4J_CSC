@@ -2,7 +2,7 @@
 
 ###  Project Overview
 
-The tool **TBFV4J-CSC** presented in this repository is based on the methodology proposed in the paper *"Condition Sequence Coverage Criterion and Automatic Test Case Generation for Testing-Based Formal Verification"*. As an enhancement of the original TBFV4J framework, TBFV4J-CSC introduces a new test coverage criterion — **Condition Sequence Coverage (CSC)** — which replaces the orig↳
+The tool **TBFV4J-CSC** presented in this project is implemented based on the methodology proposed in the paper *"Condition Sequence Coverage Criterion and Automatic Test Case Generation for Testing-Based Formal Verification."* It is an enhanced and upgraded version of the original TBFV4J tool, introducing a novel test coverage criterion—**Condition Sequence Coverage (CSC)**—to replace the original random test case generation strategy. This advancement significantly improves the thoroughness and precision of path exploration during verification, enabling more effective detection of semantic defects in Java programs.
 
 ------
 
