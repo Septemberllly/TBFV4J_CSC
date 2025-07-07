@@ -39,7 +39,7 @@ GitHub repository:
 🔗  https://github.com/aabcliu/TBFV4J
 
  The tool has been officially published and presented in the tool demonstration track at **ISSTA 2025**:
- 🔗  https://dl.acm.org/doi/10.1145/3713081.3731740
+   🔗   https://dl.acm.org/doi/10.1145/3713081.3731740
 
 
 
