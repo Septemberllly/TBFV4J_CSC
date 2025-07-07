@@ -25,7 +25,7 @@ This dataset serves as the foundation for experimental validation and algorithm 
 
 #### 3. `TBFV4J-CSC-Code`
 
-This folder contains the **full source code** of the TBFV4J-CSC tool. We**open research, reproducibility, and extensibility**, and welcome researchers to reuse, test, or extend the code.
+This folder contains the **full source code** of the TBFV4J-CSC tool. We aim for **open research, reproducibility, and extensibility**, and welcome researchers to reuse, test, or extend the code.
 
 Each folder includes its own `README.md` with more detailed explanations. We recommend reading them for usage instructions and technical details.
 
