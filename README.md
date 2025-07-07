@@ -12,7 +12,7 @@ This project consists of the following three main folders:
 
 #### 1. `Experiment Result`
 
-This folder contains the evaluation results comparing the performance of **TBFV4J-CSC** and **TBFV4J-Ran**. It includes data collected from **14 representative Java program samples**, with a total of **92 sets of experiments**. These results correspond directly to Table 1 and Table 2 in the paper.
+This folder contains the evaluation results comparing the performance of **TBFV4J-CSC** and **TBFV4J-Ran**. It includes data collected from **14 representative Java program samples**, with a total of **92 test results**. These results correspond directly to Table 1 and Table 2 in the paper.
 
 #### 2. `TBFV4J-CSC-DataSet`
 
